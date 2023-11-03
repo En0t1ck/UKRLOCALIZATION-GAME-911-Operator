@@ -3,3 +3,6 @@
 Путь OperatorNdmQG\911 Operator_Data\StreamingAssets\Languages 
 Замінити файл
 
+ПЕРЕКЛАД ПРАЦЮЄ ТІЛЬКИ НА ВЕРСІЇ ГРИ В EPIL GAMES 
+
+ПЕРЕКЛАД ВИКАНОНО: 100-5205
