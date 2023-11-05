@@ -271,7 +271,7 @@
   "management.vehicle.name.ve_firevan": "ПІКАП ПОЖЕЖНИКІВ",
   "management.vehicle.name.ve_fireheli": "ПОЖЕЖНІЙ ГЕЛІКОПТЕР",
   "management.vehicle.name.ve_bicycle": "ВЕЛОСИПЕД",
-  "management.vehicle.name.ve_unmarked": "UNMARKED ПОЛ. МАШИНА",
+  "management.vehicle.name.ve_unmarked": "СПЕЦ. ПОЛ. МАШИНА",
   "management.vehicle.name.ve_speedcar": "СПОРТИВНИЙ ПАТРУЛЬНИЙ АВТОМОБІЛЬ",
   "management.vehicle.name.ve_swatvan": "БРОНЬОВАНИЙ ФУРГОН",
   "management.vehicle.name.ve_polhelibig": "ТРАНСПОРТНИЙ ПОЛ. ГЕЛІКОПТЕР",
