@@ -3034,7 +3034,7 @@
   "call.gen19.aar.alco": "Stomach ache was caused by the alcohol and medical help wasn't needed.",
   "call.gen19.aar.sended": "The operator decided to send an ambulance.",
   "call.gen19.aar.ignore": "The operator decided that the case was not urgent enough to send emergency medical services.",
-  "call.wa_b3.title": "Possible bomb",
+  "call.wa_b3.title": "Можливо, бомба.",
   "call.wa_b3.scene.caller": "Security officer (caller)",
   "call.wa_b3.scene.bomb": "Бомба в машині.",
   "call.wa_b3.scene.bombt": "Час вибухати: {1}s",
